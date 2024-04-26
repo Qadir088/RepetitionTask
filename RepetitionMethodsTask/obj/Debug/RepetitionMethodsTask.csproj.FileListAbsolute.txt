@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\bin\Debug\RepetitionMethodsTask.exe.config
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\bin\Debug\RepetitionMethodsTask.exe
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\bin\Debug\RepetitionMethodsTask.pdb
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\obj\Debug\RepetitionMethodsTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\obj\Debug\RepetitionMethodsTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\obj\Debug\RepetitionMethodsTask.exe
+C:\Users\HP\source\repos\RepetitionMethodsTask\RepetitionMethodsTask\obj\Debug\RepetitionMethodsTask.pdb
